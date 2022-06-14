@@ -24,7 +24,7 @@ The dataset given consists of apps needed permissions during installation and ru
 * ii) Pre-processing the dataset: - Checking for Missing values, Duplicate values etc.
 * iii) Exploratory Data Analysis: - Analysing the dependent variable, categorical and numerical variables individually.
 * iv) Feature Engineering: - Creation of new features according to our need, dropping of unnecessary data points or features by checking correlation, VIF etc., handling of outliers, One–Hot Encoding and normalization of features.
-* v) Fitting of Machine Learning models with training dataset and evaluating with testing dataset: - like Linear regression, Decision Tress, Random Forest, Gradient Boosting
+* v) Fitting of Machine Learning models with training dataset and evaluating with testing dataset: - like Logistic regression, Decision Tress, Random Forest, Gradient Boosting, XGBoost, KNN, Naive Bayes.
 * vi) Hypertuning and Explaining the best model with LIME and ELI5.
 # Observations
 Logistic Regression is the best performed model with F1 Score of almost 91% for both train and test dataset. 
